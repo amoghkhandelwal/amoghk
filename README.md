@@ -1,0 +1,2 @@
+# amoghk
+ first repo
